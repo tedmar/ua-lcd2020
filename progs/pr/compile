@@ -1,0 +1,5 @@
+rm h1.o greets.o h1
+make h1.o
+make greets.o
+cc -o h1 h1.o greets.o
+

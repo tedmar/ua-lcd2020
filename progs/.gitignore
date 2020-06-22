@@ -1,7 +1,3 @@
-#Executables without extension
-*
-!*.*
-
 #vim swp files
 .*.swp
 .*.swo
